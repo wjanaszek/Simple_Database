@@ -5,7 +5,7 @@ Jest to jeden z moich pierwszych poważnych projektów proceduralnych. Jestem za
 
 1. Objaśnienia:
   - struktura danych to drzewo binarne z listą jednokierunkową w każdym węźle tego drzewa
- 2. Funkcjonalność:
+2. Funkcjonalność:
   - odczyt/zapis stanu bazy do pliku tekstowego lub binarnego
   - dodawanie/usuwanie/modyfikacja danych
   - wyświetlanie (wyszukiwanie) danych np. na podstawie częstotliwości wydawania gazety
